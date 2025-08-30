@@ -1,13 +1,1 @@
-﻿  main.cpp
-C:\Users\trevo\OneDrive\Documents\School\Summer\Code\OpenGL\elevation-map-2\src\main.cpp(128,28): warning C4018: '<': signed/unsigned mismatch
-C:\Users\trevo\OneDrive\Documents\School\Summer\Code\OpenGL\elevation-map-2\src\main.cpp(130,32): warning C4018: '<': signed/unsigned mismatch
-C:\Users\trevo\OneDrive\Documents\School\Summer\Code\OpenGL\elevation-map-2\src\main.cpp(168,28): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-C:\Users\trevo\OneDrive\Documents\School\Summer\Code\OpenGL\elevation-map-2\src\main.cpp(199,40): warning C4018: '<': signed/unsigned mismatch
-C:\Users\trevo\OneDrive\Documents\School\Summer\Code\OpenGL\elevation-map-2\src\main.cpp(277,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-C:\Users\trevo\OneDrive\Documents\School\Summer\Code\OpenGL\elevation-map-2\src\main.cpp(278,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-C:\Users\trevo\OneDrive\Documents\School\Summer\Code\OpenGL\elevation-map-2\src\main.cpp(282,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-C:\Users\trevo\OneDrive\Documents\School\Summer\Code\OpenGL\elevation-map-2\src\main.cpp(283,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-C:\Users\trevo\OneDrive\Documents\School\Summer\Code\OpenGL\elevation-map-2\src\main.cpp(285,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-C:\Users\trevo\OneDrive\Documents\School\Summer\Code\OpenGL\elevation-map-2\src\main.cpp(286,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-C:\Users\trevo\OneDrive\Documents\School\Summer\Code\OpenGL\elevation-map-2\src\main.cpp(295,31): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
-  elevation-map-2.vcxproj -> C:\Users\trevo\OneDrive\Documents\School\Summer\Code\OpenGL\elevation-map-2\x64\Debug\elevation-map-2.exe
+﻿  elevation-map-2.vcxproj -> C:\Users\trevo\OneDrive\Documents\School\Summer\Code\OpenGL\elevation-map\x64\Debug\elevation-map-2.exe

@@ -71,14 +71,14 @@
   </ImportGroup>
   <PropertyGroup Label="UserMacros" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
-    <IncludePath>C:\Users\trevo\Downloads\glfw-3.4.bin.WIN32\glfw-3.4.bin.WIN32\include;C:\Users\trevo\OneDrive\Documents\School\Summer\Code\OpenGL\elevation-map-2\include;$(IncludePath)</IncludePath>
-    <LibraryPath>C:\Users\trevo\OneDrive\Documents\School\Summer\Code\OpenGL\elevation-map-2\lib;$(LibraryPath)</LibraryPath>
-    <SourcePath>C:\Users\trevo\OneDrive\Documents\School\Summer\Code\OpenGL\elevation-map-2\src;$(SourcePath)</SourcePath>
+    <IncludePath>C:\Users\trevo\Downloads\glfw-3.4.bin.WIN32\glfw-3.4.bin.WIN32\include;C:\Users\trevo\OneDrive\Documents\School\Summer\Code\OpenGL\elevation-map\include;$(IncludePath)</IncludePath>
+    <LibraryPath>C:\Users\trevo\OneDrive\Documents\School\Summer\Code\OpenGL\elevation-map\lib;$(LibraryPath)</LibraryPath>
+    <SourcePath>C:\Users\trevo\OneDrive\Documents\School\Summer\Code\OpenGL\elevation-map\src;$(SourcePath)</SourcePath>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
-    <IncludePath>C:\Users\trevo\Downloads\glfw-3.4.bin.WIN32\glfw-3.4.bin.WIN32\include;C:\Users\trevo\OneDrive\Documents\School\Summer\Code\OpenGL\elevation-map-2\include;$(IncludePath)</IncludePath>
-    <LibraryPath>C:\Users\trevo\OneDrive\Documents\School\Summer\Code\OpenGL\elevation-map-2\lib;$(LibraryPath)</LibraryPath>
-    <SourcePath>C:\Users\trevo\OneDrive\Documents\School\Summer\Code\OpenGL\elevation-map-2\src;$(SourcePath)</SourcePath>
+    <IncludePath>C:\Users\trevo\Downloads\glfw-3.4.bin.WIN32\glfw-3.4.bin.WIN32\include;C:\Users\trevo\OneDrive\Documents\School\Summer\Code\OpenGL\elevation-map\include;$(IncludePath)</IncludePath>
+    <LibraryPath>C:\Users\trevo\OneDrive\Documents\School\Summer\Code\OpenGL\elevation-map\lib;$(LibraryPath)</LibraryPath>
+    <SourcePath>C:\Users\trevo\OneDrive\Documents\School\Summer\Code\OpenGL\elevation-map\src;$(SourcePath)</SourcePath>
   </PropertyGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
     <ClCompile>
