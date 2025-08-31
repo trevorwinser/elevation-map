@@ -79,3 +79,12 @@ In an ideal scenario:
 
 1. The biggest issue of this project is finding the right way to model fuel sources. There is [public data](https://www.arcgis.com/home/item.html?id=9a1f02ec49b84911ab06b016fbfae62e) on where certain fuel types are, but actually getting a small scale representation of this fuel to accurately depict fire spread is it's own problem. We were most interested in smoldering fires because in the presence of flames, the camera would become obscured, making data collection trickier. Our best result came from Aspen wood shavings
 
+# Program
+
+The OpenGL program is based on the [guest article](https://learnopengl.com/Guest-Articles/2021/Tessellation/Height-map).
+
+For instructions on configuring the project to run, see below:
+
+First, you will need to download your preferred version of [**Visual Studio**](https://visualstudio.microsoft.com/downloads/), not to be confused with *Visual Studio Code*. I can write what's already be said, or I can direct you in the correct place by directing you to this tutorial on setting up your environment for OpenGL programming [here](https://www.youtube.com/watch?v=XpBGwZNyUh0&list=PLPaoO-vpZnumdcb4tZc4x5Q-v7CkrQ6M-&index=1).
+
+If you have an interest in learning OpenGL, I recommend watching the full playlist as it provides beginner insights into what it is like to program shaders, and the steps to achieve said shaders.
